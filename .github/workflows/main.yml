@@ -28,8 +28,7 @@ jobs:
           node-version: '20'
       
       - name: Install dependencies
-        run: npminstallci
-      
+run: npm install      
       - name: Build
         run: npm run build
       
