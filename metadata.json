@@ -1,0 +1,5 @@
+{
+  "name": "CypherPulse - Secure Cyberpunk Encryption",
+  "description": "A high-security, futuristic web application for encrypting and decrypting text using the industry-standard AES-GCM algorithm with a cyberpunk aesthetic.",
+  "requestFramePermissions": []
+}
